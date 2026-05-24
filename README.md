@@ -2,6 +2,10 @@
 
 This repository contains the local Hush product UI design board.
 
+![Hush UI Design Preview](Hush_Elegant_Product_Design_V2_reference_preview.png)
+
+Live preview: https://aliscie2.github.io/hush-ui-design/
+
 ## What This Is
 
 This is a shareable design package for reviewing and editing the Hush UI locally.
