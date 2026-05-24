@@ -1,0 +1,482 @@
+{
+  "package": "Hush Vector Edit Package",
+  "generatedAt": "2026-05-24T10:33:49.769Z",
+  "editableSvg": "Hush_Elegant_Product_Design_V2_editable.svg",
+  "referencePreview": "Hush_Elegant_Product_Design_V2_reference_preview.png",
+  "svg": {
+    "width": 2964,
+    "height": 9024,
+    "viewBox": "0 0 2964 9024"
+  },
+  "screenCount": 36,
+  "screens": [
+    {
+      "order": 1,
+      "id": "App - Welcome / Trust",
+      "category": "App",
+      "sourceLine": 73,
+      "frame": {
+        "x": 120,
+        "y": 520,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 2,
+      "id": "App - Microphone Permission",
+      "category": "App",
+      "sourceLine": 110,
+      "frame": {
+        "x": 566,
+        "y": 520,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 3,
+      "id": "App - Keyboard Setup",
+      "category": "App",
+      "sourceLine": 148,
+      "frame": {
+        "x": 120,
+        "y": 1460,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 4,
+      "id": "App - Setup Complete",
+      "category": "App",
+      "sourceLine": 212,
+      "frame": {
+        "x": 566,
+        "y": 1460,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 5,
+      "id": "Keyboard - Idle",
+      "category": "Keyboard",
+      "sourceLine": 259,
+      "frame": {
+        "x": 1562,
+        "y": 520,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 6,
+      "id": "Keyboard - Mode",
+      "category": "Keyboard",
+      "sourceLine": 363,
+      "frame": {
+        "x": 2008,
+        "y": 520,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 7,
+      "id": "Keyboard - Quick Access",
+      "category": "Keyboard",
+      "sourceLine": 480,
+      "frame": {
+        "x": 2454,
+        "y": 520,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 8,
+      "id": "Keyboard - Recording",
+      "category": "Keyboard",
+      "sourceLine": 530,
+      "frame": {
+        "x": 1562,
+        "y": 1460,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 9,
+      "id": "Keyboard - Live Transcript",
+      "category": "Keyboard",
+      "sourceLine": 581,
+      "frame": {
+        "x": 2008,
+        "y": 1460,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 10,
+      "id": "Keyboard - Inserted",
+      "category": "Keyboard",
+      "sourceLine": 629,
+      "frame": {
+        "x": 2454,
+        "y": 1460,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 11,
+      "id": "Keyboard - Failed Saved",
+      "category": "Keyboard",
+      "sourceLine": 672,
+      "frame": {
+        "x": 1562,
+        "y": 2400,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 12,
+      "id": "Keyboard - Recent + Failed",
+      "category": "Keyboard",
+      "sourceLine": 715,
+      "frame": {
+        "x": 2008,
+        "y": 2400,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 13,
+      "id": "App - Full History",
+      "category": "App",
+      "sourceLine": 765,
+      "frame": {
+        "x": 566,
+        "y": 3340,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 14,
+      "id": "App - Audio Detail",
+      "category": "App",
+      "sourceLine": 816,
+      "frame": {
+        "x": 1012,
+        "y": 3340,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 15,
+      "id": "App - Settings",
+      "category": "App",
+      "sourceLine": 866,
+      "frame": {
+        "x": 120,
+        "y": 4280,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 16,
+      "id": "App - More Menu",
+      "category": "App",
+      "sourceLine": 939,
+      "frame": {
+        "x": 566,
+        "y": 4280,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 17,
+      "id": "App - Language + Accuracy",
+      "category": "App",
+      "sourceLine": 994,
+      "frame": {
+        "x": 1012,
+        "y": 4280,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 18,
+      "id": "App - Language Picker",
+      "category": "App",
+      "sourceLine": 1037,
+      "frame": {
+        "x": 120,
+        "y": 5220,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 19,
+      "id": "App - Words",
+      "category": "App",
+      "sourceLine": 1089,
+      "frame": {
+        "x": 566,
+        "y": 5220,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 20,
+      "id": "App - Diagnostics",
+      "category": "App",
+      "sourceLine": 1137,
+      "frame": {
+        "x": 120,
+        "y": 6160,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 21,
+      "id": "Keyboard - Coachmarks",
+      "category": "Keyboard",
+      "sourceLine": 1199,
+      "frame": {
+        "x": 2454,
+        "y": 2400,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 22,
+      "id": "App - Test Dictation",
+      "category": "App",
+      "sourceLine": 1314,
+      "frame": {
+        "x": 120,
+        "y": 2400,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 23,
+      "id": "App - Test Dictation Coachmark",
+      "category": "App",
+      "sourceLine": 1360,
+      "frame": {
+        "x": 566,
+        "y": 2400,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 24,
+      "id": "App - Test Dictation Listening",
+      "category": "App",
+      "sourceLine": 1405,
+      "frame": {
+        "x": 1012,
+        "y": 2400,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 25,
+      "id": "App - Test Dictation Result",
+      "category": "App",
+      "sourceLine": 1453,
+      "frame": {
+        "x": 120,
+        "y": 3340,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 26,
+      "id": "App - Model Download",
+      "category": "App",
+      "sourceLine": 1490,
+      "frame": {
+        "x": 1012,
+        "y": 520,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 27,
+      "id": "App - Permission Recovery",
+      "category": "App",
+      "sourceLine": 1535,
+      "frame": {
+        "x": 120,
+        "y": 7100,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 28,
+      "id": "App - Dictionary Empty / Edit",
+      "category": "App",
+      "sourceLine": 1572,
+      "frame": {
+        "x": 1012,
+        "y": 5220,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 29,
+      "id": "App - Diagnostics Detail",
+      "category": "App",
+      "sourceLine": 1610,
+      "frame": {
+        "x": 566,
+        "y": 6160,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 30,
+      "id": "App - Diagnostics Activity Log",
+      "category": "App",
+      "sourceLine": 1665,
+      "frame": {
+        "x": 1012,
+        "y": 6160,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 31,
+      "id": "App - Storage Error",
+      "category": "App",
+      "sourceLine": 1704,
+      "frame": {
+        "x": 566,
+        "y": 7100,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 32,
+      "id": "App - Recovery Phrase",
+      "category": "App",
+      "sourceLine": 1743,
+      "frame": {
+        "x": 1012,
+        "y": 7100,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 33,
+      "id": "App - Recovery Confirm Phrase",
+      "category": "App",
+      "sourceLine": 1800,
+      "frame": {
+        "x": 120,
+        "y": 8040,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 34,
+      "id": "App - Restore With Phrase",
+      "category": "App",
+      "sourceLine": 1841,
+      "frame": {
+        "x": 566,
+        "y": 8040,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 35,
+      "id": "App - Credits",
+      "category": "App",
+      "sourceLine": 1881,
+      "frame": {
+        "x": 1012,
+        "y": 8040,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    },
+    {
+      "order": 36,
+      "id": "App - Keyboard Demo",
+      "category": "App",
+      "sourceLine": 1923,
+      "frame": {
+        "x": 1012,
+        "y": 1460,
+        "width": 390,
+        "height": 844,
+        "rx": 36
+      }
+    }
+  ]
+}
